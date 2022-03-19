@@ -1,2 +1,2 @@
 # twTest
-It's for ThoughtWorks test
+It's for test
